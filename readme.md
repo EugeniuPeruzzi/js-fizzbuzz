@@ -6,3 +6,8 @@ PROBLEMA:   Generare in console una serie di numeri da 1 a 100. Per i multipli d
 3 - Dichiaro che per ogni multiplo di 5 deve ridarmi il valor Buzz
 4 - Dichiaro che per ogni multiplo di 3 e 5 deve ridarmi il valore FizzBuzz
 
+Bonus 1
+
+1 - Creare nel DOM un conainer a cui collercarsi con js
+2 - Collegarsi con js al container sul DOM
+3 - Eseguire a schermo i dati del log
