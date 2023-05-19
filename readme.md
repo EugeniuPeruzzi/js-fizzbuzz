@@ -11,3 +11,8 @@ Bonus 1
 1 - Creare nel DOM un conainer a cui collercarsi con js
 2 - Collegarsi con js al container sul DOM
 3 - Eseguire a schermo i dati del log
+
+Bonus 2 
+
+1 - Miglioro graficamente 
+2 - Rapresento sotto forma di grid

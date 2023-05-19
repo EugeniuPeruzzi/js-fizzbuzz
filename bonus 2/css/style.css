@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;  
+}
+
+.fizz{
+  background-color: #0CD6A1;
+}
+
+.buzz{
+  background-color: #FFD166;
+}
+
+.buzzfizz{
+  background-color: #F0466F;
+}
+
+.number{
+  background-color: #1389B2;
+}
+
+.jumbotron{
+  background-color: #083B4C;
+}
+
+.box{
+  height: 130px;
+  width: 130px;
+}
+
+.white{
+  color: #fff;
+}
+
+.red{
+  background-color: red;
+}
